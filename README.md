@@ -12,4 +12,4 @@ show_image('hello.jpg', 100)
 ```
 ## Screenshots
 
-![alt text](screenshots/insta.jpg)
+![alt text](https://github.com/Hardeepsingh980/terminal_viewer/blob/master/screenshots/1.jpg?raw=true)
