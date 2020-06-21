@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: terminal-viewer
+Version: 0.3
+Summary: Package for printing images in terminal
+Home-page: https://github.com/Hardeepsingh980/terminal_viewer
+Author: Hardeep SIngh
+Author-email: hardeep0khalsa122@gmail.com
+License: MIT
+Download-URL: https://github.com/Hardeepsingh980/terminal_viewer.git
+Description: # Terminal Viewer
+        Python Package for viewing Images in terminal. Does this sound cool? 
+        
+        ## How to Use?
+        
+        To use this package follow below:- 
+        
+        ```
+        from terminal_viewer import show_image
+        
+        show_image('hello.jpg', 100)
+        ```
+        
+        #### Note Resize the terminal window for better results.
+        #### It Only works in bash terminal.
+        
+        ## Screenshots
+        
+        ![alt text](https://github.com/Hardeepsingh980/terminal_viewer/blob/master/screenshots/1.jpg?raw=true)
+Keywords: terminal,image,terminal_image,terminal_viewer
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Description-Content-Type: text/markdown

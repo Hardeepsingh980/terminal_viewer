@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+terminal_viewer/__init__.py
+terminal_viewer/main.py
+terminal_viewer.egg-info/PKG-INFO
+terminal_viewer.egg-info/SOURCES.txt
+terminal_viewer.egg-info/dependency_links.txt
+terminal_viewer.egg-info/requires.txt
+terminal_viewer.egg-info/top_level.txt
